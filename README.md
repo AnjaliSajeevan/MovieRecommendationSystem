@@ -2,7 +2,7 @@
 
 A movie recommendation system was build to predict movies to users using content-based, collaborative and hybrid filtering on MovieLens 20K dataset.
 
-- Implemented the recommender system using python libraries pandas, numpy, matplotlib, scipy and scikit-learn 
+- Implemented the recommender system using python libraries Pandas, NumPy, Matplotlib, SciPy and Scikit-learn
 - Applied exploratory data analysis for visualizing data and investigating each component of the dataset
 - Compared the performance of TF-IDF, KNN and SVD algorithms based on RMSE value
 
